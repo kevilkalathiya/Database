@@ -1,0 +1,32 @@
+1). What do you understand By Database.
+    ANS : A database is an organized collection of structured information, or data,
+          typically stored  electronically in a computer system. A database is usually
+          controlled by a database management system (DBMS).
+
+2). What is Normalization?
+    ANS : Normalization is the process of organizing data in a database.
+
+3). What is Difference between DBMS and RDBMS?
+    ANS : In DBMS, the data is stored as a file, whereas in RDBMS, data is stored in the form of  tables.
+
+4). What do you understand By Data Redundancy? 
+    ANS : Data redundancy occurs when the same piece of data is stored in two or more separate places
+
+5). What is DDL Interpreter? 
+    ANS : It processes the DDL statements into a set of table containing meta data (data about data). 
+
+6). What is DML Compiler in SQL?
+    ANS : 
+          DML : Data manipulation language
+          It processes the DML statements into low level instruction (machine language), so that they can be executed.
+
+7). What is SQL Key Constraints.
+    ANS : The PRIMARY KEY constraint uniquely identifies each record in a table. Primary keys must contain UNIQUE values,
+          A table can have only ONE primary key.
+
+8). What is trigger and how to create a Trigger in SQL? 
+    ANS : A trigger is a special type of stored procedure that automatically runs when an event occurs in the database server
+          SYNTAX:
+          CREATE TRIGGER triggerName (after/before) (insert/update/delete) ON tableName FOR EACH ROW
+
+
